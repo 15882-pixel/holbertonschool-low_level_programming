@@ -6,3 +6,4 @@
 5-printnumbers
 6-printnumberz
 7-printtebahpla
+8-printbase16
