@@ -7,3 +7,4 @@
 6-printnumberz
 7-printtebahpla
 8-printbase16
+9-printcomb
