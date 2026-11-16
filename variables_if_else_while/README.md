@@ -4,3 +4,4 @@
 3-printalphabets
 4-printalphabt
 5-printnumbers
+6-printnumberz
