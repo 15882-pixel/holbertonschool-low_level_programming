@@ -6,3 +6,4 @@
 5-sign.c : Print the sign of a number
 6-abs.c : Compute the absolute value of an integer
 7-printlastdigit: Print last digit of a number
+8-24hours : Print every minutes of 24hours
