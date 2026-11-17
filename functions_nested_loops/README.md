@@ -4,3 +4,4 @@
 3-islower.c : If c > return 1 otherwise 0
 4-isalpha.c : Check if its a alphabetic caracter
 5-sign.c : Print the sign of a number
+6-abs.c : Compute the absolute value of an integer
