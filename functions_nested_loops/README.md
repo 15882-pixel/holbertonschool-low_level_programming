@@ -7,3 +7,4 @@
 6-abs.c : Compute the absolute value of an integer
 7-printlastdigit: Print last digit of a number
 8-24hours : Print every minutes of 24hours
+9-timestable.c : 9 multiplication table
