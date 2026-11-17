@@ -3,7 +3,7 @@
 
 /**
  * print_to_98 : Print all integers from n to 98
- *@n : The starter number 
+ *@n : The starter number
  *
  * Return: Nothing
  */
