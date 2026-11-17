@@ -2,8 +2,8 @@
 #include "main.h"
 
 /**
- * print_to_98 : Print all integers from n to 98
- *@n : The starter number
+ * print_to_98 - Prints all integers from n to 98
+ * @n: The starting number
  *
  * Return: Nothing
  */
