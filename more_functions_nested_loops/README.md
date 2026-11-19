@@ -4,3 +4,4 @@
 3-printnumbers.c : Prints 0 to 9
 4-printmostnumbers.c : prints 0 to 9 (not 2 and 4)
 5-morenumbers.c : Write a function 10 times prints from 0 to 14
+6-printline.c : function that draws a straight line
