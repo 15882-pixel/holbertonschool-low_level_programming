@@ -6,3 +6,4 @@
 5-morenumbers.c : Write a function 10 times prints from 0 to 14
 6-printline.c : Draws a straight line
 7-printdiagonal.c : Draws a diagonal line
+8-printsquare.c : Prints a sqaure
