@@ -7,3 +7,4 @@
 6-printline.c : Draws a straight line
 7-printdiagonal.c : Draws a diagonal line
 8-printsquare.c : Prints a sqaure
+9-fizzbuzz.c : Fizzbuzz test
