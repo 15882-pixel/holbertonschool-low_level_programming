@@ -8,3 +8,4 @@
 7-putshalf.c : Print half of a string
 8-printarray.c :Print n elements of an array of integers
 9-strcpy.c : unction that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
+10-atoi.c : The number in the string can be preceded by an infinite number of characters
