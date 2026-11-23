@@ -5,3 +5,4 @@
 4-printrev.c: Print a string in reverse followed vy a new line
 5-revstring.c : Reverses a string
 6-puts.c : Prints every other caracter of a string
+7-putshalf.c : Print half of a string
