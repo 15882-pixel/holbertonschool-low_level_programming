@@ -7,3 +7,4 @@
 6-puts.c : Prints every other caracter of a string
 7-putshalf.c : Print half of a string
 8-printarray.c :Print n elements of an array of integers
+9-strcpy.c : unction that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
