@@ -12,3 +12,4 @@
 0-strcat : Concatenates 2 strings
 1-strncat.c : Concatenates 2 strings
 2-strncpy.c : Work like strncpy
+3-strcmp.c : Work like strcmp
