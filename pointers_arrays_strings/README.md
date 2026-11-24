@@ -13,3 +13,4 @@
 1-strncat.c : Concatenates 2 strings
 2-strncpy.c : Work like strncpy
 3-strcmp.c : Work like strcmp
+4-revarray.c: Reverse the content of an array of integers
