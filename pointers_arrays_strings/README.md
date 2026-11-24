@@ -11,3 +11,4 @@
 10-atoi.c : The number in the string can be preceded by an infinite number of characters
 0-strcat : Concatenates 2 strings
 1-strncat.c : Concatenates 2 strings
+2-strncpy.c : Work like strncpy
