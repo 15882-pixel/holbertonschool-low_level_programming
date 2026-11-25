@@ -15,3 +15,4 @@
 3-strcmp.c : Work like strcmp
 4-revarray.c: Reverse the content of an array of integers
 5-stringtoupper.c : all lowercase in uppercase 
+6-capstring.c : capitalizes all words of a string
