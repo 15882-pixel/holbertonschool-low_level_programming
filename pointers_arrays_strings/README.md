@@ -18,3 +18,4 @@
 6-capstring.c : capitalizes all words of a string
 7-leet.c : Encode in leet 1337
 0-memset.c : Fills memory with constant byte
+1-mamcpy.c : Copy memory area
